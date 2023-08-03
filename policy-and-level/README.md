@@ -17,6 +17,6 @@ As politicas de nível inferior - aquelas que estão mais proximas das bordas (e
 
 Matriz de eisenhower
 
-![Matriz de Eisenhower](../docs/images/matriz-de-eisenhower.png)
+![Matriz de Eisenhower](../docs/policy-and-level/matriz-de-eisenhower.png)
 
 
